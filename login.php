@@ -130,24 +130,24 @@
     <footer class="footer px-3 py-3">
         <div class="container-fluid">
             <div class="row align-items-center">
-            <div class="col-md-4 text-md-start text-center mb-2 mb-md-0">
-                <div class="brand-name">
-                <strong class="text">READCYCLE</strong>
+                <div class="col-md-4 text-md-start text-center mb-2 mb-md-0">
+                    <div class="brand-name">
+                    <strong class="text">READCYCLE</strong>
+                    </div>
+                </div>
+
+                <div class="col-md-4 text-center mb-2 mb-md-0">
+                    <a href="#" class="text-dark mx-2">About Us</a>
+                    <span class="text-muted">|</span>
+                    <a href="#" class="text-dark mx-2">FAQ</a>
+                    <span class="text-muted">|</span>
+                    <a href="#" class="text-dark mx-2">Contact</a>
+                </div>
+
+                <div class="col-md-4 text-md-end text-center">
+                    <small class="text-muted">© 2025 READCYCLE. All rights reserved.</small>
                 </div>
             </div>
-
-            <div class="col-md-4 text-center mb-2 mb-md-0">
-                <a href="#" class="text-dark mx-2">About Us</a>
-                <span class="text-muted">|</span>
-                <a href="#" class="text-dark mx-2">FAQ</a>
-                <span class="text-muted">|</span>
-                <a href="#" class="text-dark mx-2">Contact</a>
-            </div>
-
-            <div class="col-md-4 text-md-end text-center">
-                <small class="text-muted">© 2025 READCYCLE. All rights reserved.</small>
-            </div>
-            </div> <!-- penutup .row di tempat yang benar -->
         </div>
     </footer>
     
