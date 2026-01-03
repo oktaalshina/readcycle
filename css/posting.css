@@ -1,0 +1,31 @@
+/* === POSTING PAGE === */
+.posting-page {
+    font-family: 'Rubik', sans-serif;
+    background-color: white;
+}
+
+/* === FILE UPLOAD === */
+.file-upload-area {
+    border: 2px dashed #ced4da;
+    border-radius: .5rem;
+    padding: 3rem;
+    text-align: center;
+    cursor: pointer;
+    background-color: #fff;
+    transition: backkground-color .2s ease-in-out;
+}
+
+.file-upload-area:hover {
+    background-color: #e9ecef;
+}
+
+.file-upload-area input[type="file"] {
+    display: none;
+}
+
+.preview-image {
+    max-height: 200px;
+    max-width: 100%;
+    border-radius: .5rem;
+    margin-top: 1rem;
+}

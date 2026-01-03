@@ -1,0 +1,90 @@
+/* === GLOBAL === */
+body {
+    font-family: 'Rubik', sans-serif;
+    background-color: white;
+}
+
+/* === HEADER === */
+.main-header {
+    background: linear-gradient(90deg, #FFF1D5 44.12%, #9FB3DF 100%);
+    padding: 1rem 0;
+}
+
+.brand-header {
+    font-family: 'Righteous', cursive;
+    color: #9FB3DF;
+}
+
+.brand-name {
+    font-family: 'Righteous', cursive;
+    color: #9FB3DF;
+}
+
+/* === CARD === */
+.card {
+    border: 1px solid #e9ecef;
+}
+
+.comment-box {
+    background-color: #e9ecef;
+    font-size: 0.9em;
+}
+
+/* === BUTTON CUSTOM === */
+.btn-deco {
+    display: inline-block;
+    padding: 0.35em 0.65em;
+    font-size: 0.875em;
+    font-weight: 500;
+    line-height: 1.5;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: default;
+    color: white;
+    border-radius: 100px;
+    background: #9EC6F3;
+    border: 1px solid transparent;
+}
+
+/* === HOVER KHUSUS UNTUK <a> === */
+a.btn-deco {
+    background-color: #5a6268;
+    cursor: pointer;
+}
+
+/* === NAV === */
+.nav {
+    color: #333333;
+}
+
+/* === INDEX PAGE ONLY === */
+.index-page {
+    background: radial-gradient(
+        56.73% 56.73% at 49.97% 40.23%,
+        #9FB3DF 0%,
+        #FFF1D5 100%
+    );
+    color: #333;
+}
+
+/* === HERO IMAGE */
+.gambar-buku {
+    max-width: 450px;
+    height: auto;
+}
+
+/* === FOOTER === */
+.footer {
+    background: linear-gradient(90deg, #FFF1D5 0%, #9FB3DF 100%);
+    font-family: 'Rubik', sans-serif;
+}
+
+.footer a {
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.footer a:hover{
+    text-decoration: underline;
+}

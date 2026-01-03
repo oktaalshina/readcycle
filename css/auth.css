@@ -1,0 +1,60 @@
+/* === AUTH PAGE (LOGIN & REGISTER) === */
+.auth-page {
+    font-family: 'Rubik', sans-serif;
+}
+
+/* === LEFT SIDE === */
+.auth-left {
+    background: radial-gradient(
+        50.17% 50.17% at 50% 50%,
+        #9FB3DF 0%,
+        #FFF1D5 100%
+    );
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.auth-left img {
+    max-width: 80%;
+}
+
+/* === RIGHT SIDE === */
+.auth-right {
+    background: white;
+    padding: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.auth-box {
+    width: 100%;
+    max-width: 420px;
+}
+
+/* === FORM === */
+.auth-box input {
+    border-radius: 4px;
+    border: 1px solid #E4E4E4;
+    background: #F1F1F1;
+}
+
+.auth-box .btn-primary {
+    border-radius: 18px;
+    background: #9EC6F3;
+    border: none;
+}
+
+.auth-box .btn-primary:hover {
+    background: #8ab7ea;
+}
+
+/* === TITLE === */
+.auth-title {
+    font-weight: 700;
+}
+
+.auth-desc {
+    color: #666;
+}
